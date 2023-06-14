@@ -45,13 +45,6 @@ namespace View
 
         }
 
-        private void dgvToDo_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-
-
-        }
-
         private void dgvToDo_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             //Este metodo es declarado hiendo a Properties>Mouse>CellClick

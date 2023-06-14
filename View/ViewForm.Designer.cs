@@ -160,7 +160,7 @@
             this.dgvToDo.Size = new System.Drawing.Size(562, 546);
             this.dgvToDo.TabIndex = 7;
             this.dgvToDo.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvToDo_CellClick);
-            this.dgvToDo.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvToDo_CellContentClick);
+            
             // 
             // dgvEventCL
             // 
